@@ -1,10 +1,10 @@
 {
-  "name": "E621 Integration",
-  "version": "1.1",
-  "description": "Lmao",
-  "url": "https://github.com/lambda-client/ExamplePlugin",
-  "authors": [ "ToxicAven" ],
-  "main_class": "dev.toxicaven.E621Plugin",
+  "name": "E621 uwu",
+  "version": "1.0",
+  "description": "trolling emoji",
+  "url": "https://github.com/Edouard127/LambdaE621Plugin",
+  "authors": [ ":trolling:" ],
+  "main_class": "kami.is.trolling.E621Plugin",
   "min_api_version": "3.2",
   "required_plugins": []
 }
