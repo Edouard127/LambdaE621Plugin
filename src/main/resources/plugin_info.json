@@ -1,0 +1,10 @@
+{
+  "name": "E621 Integration",
+  "version": "1.1",
+  "description": "Lmao",
+  "url": "https://github.com/lambda-client/ExamplePlugin",
+  "authors": [ "ToxicAven" ],
+  "main_class": "dev.toxicaven.E621Plugin",
+  "min_api_version": "3.2",
+  "required_plugins": []
+}
